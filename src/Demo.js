@@ -26,3 +26,4 @@ function Demo() {
 }
 
 export default Demo
+const a = 'a';
